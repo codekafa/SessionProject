@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Core.Data.Manager.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Model.RHC.Api": "1.0.0"
+        },
+        "runtime": {
+          "Core.Data.Manager.Infrastructure.dll": {}
+        }
+      },
+      "Model.RHC.Api/1.0.0": {
+        "runtime": {
+          "Model.RHC.Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core.Data.Manager.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Model.RHC.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Model.RHC.Api/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Model.RHC.Api.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.RHC.Api.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Model.RHC.Api/1.0.0": {
+      "type": "project",
+      "path": "../Model.RHC.Api/Model.RHC.Api.csproj",
+      "msbuildProject": "../Model.RHC.Api/Model.RHC.Api.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Model.RHC.Api >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tayfu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Manager.Infrastructure\\Core.Data.Manager.Infrastructure.csproj",
+      "projectName": "Core.Data.Manager.Infrastructure",
+      "projectPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Manager.Infrastructure\\Core.Data.Manager.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\tayfu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Manager.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tayfu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://deturdynamic.pkgs.visualstudio.com/DeturDynamic/_packaging/DeturGroup/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Model.RHC.Api\\Model.RHC.Api.csproj": {
+              "projectPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Model.RHC.Api\\Model.RHC.Api.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

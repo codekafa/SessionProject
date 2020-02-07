@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Data.Repository.Infrastructure\Core.Data.Repository.Infrastructure.csproj" />
+    <ProjectReference Include="..\Data.RHC\Data.RHC.csproj" />
+  </ItemGroup>
+
+</Project>
