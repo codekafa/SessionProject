@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Session.Model.Infrastructure;
 
 namespace Model.RHC.Api.User
 {
-    public class UserListModel
+    public class UserListModel : IModel
     {
         public int UserID { get; set; }
 

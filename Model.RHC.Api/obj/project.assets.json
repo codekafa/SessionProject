@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Session.Model.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Session.Model.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Session.Model.Infrastructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Session.Model.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Ssession.Model.RHC.Infrastructure/Session.Model.Infrastructure.csproj",
+      "msbuildProject": "../Ssession.Model.RHC.Infrastructure/Session.Model.Infrastructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Session.Model.Infrastructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tayfu\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Model.RHC.Api\\Model.RHC.Api.csproj",
+      "projectUniqueName": "C:\\Workspaces\\SessionProject\\Model.RHC.Api\\Model.RHC.Api.csproj",
       "projectName": "Model.RHC.Api",
-      "projectPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Model.RHC.Api\\Model.RHC.Api.csproj",
+      "projectPath": "C:\\Workspaces\\SessionProject\\Model.RHC.Api\\Model.RHC.Api.csproj",
       "packagesPath": "C:\\Users\\tayfu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Model.RHC.Api\\obj\\",
+      "outputPath": "C:\\Workspaces\\SessionProject\\Model.RHC.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tayfu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Workspaces\\SessionProject\\Ssession.Model.RHC.Infrastructure\\Session.Model.Infrastructure.csproj": {
+              "projectPath": "C:\\Workspaces\\SessionProject\\Ssession.Model.RHC.Infrastructure\\Session.Model.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,7 @@
+C:\Workspaces\SessionProject\Ssession.Model.RHC.Infrastructure\bin\Debug\netcoreapp3.1\Session.Model.Infrastructure.deps.json
+C:\Workspaces\SessionProject\Ssession.Model.RHC.Infrastructure\bin\Debug\netcoreapp3.1\Session.Model.Infrastructure.dll
+C:\Workspaces\SessionProject\Ssession.Model.RHC.Infrastructure\bin\Debug\netcoreapp3.1\Session.Model.Infrastructure.pdb
+C:\Workspaces\SessionProject\Ssession.Model.RHC.Infrastructure\obj\Debug\netcoreapp3.1\Session.Model.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspaces\SessionProject\Ssession.Model.RHC.Infrastructure\obj\Debug\netcoreapp3.1\Session.Model.Infrastructure.AssemblyInfo.cs
+C:\Workspaces\SessionProject\Ssession.Model.RHC.Infrastructure\obj\Debug\netcoreapp3.1\Session.Model.Infrastructure.dll
+C:\Workspaces\SessionProject\Ssession.Model.RHC.Infrastructure\obj\Debug\netcoreapp3.1\Session.Model.Infrastructure.pdb

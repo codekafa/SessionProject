@@ -4947,11 +4947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Data.RHC\\Data.RHC.csproj",
+      "projectUniqueName": "C:\\Workspaces\\SessionProject\\Data.RHC\\Data.RHC.csproj",
       "projectName": "Data.RHC",
-      "projectPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Data.RHC\\Data.RHC.csproj",
+      "projectPath": "C:\\Workspaces\\SessionProject\\Data.RHC\\Data.RHC.csproj",
       "packagesPath": "C:\\Users\\tayfu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Data.RHC\\obj\\",
+      "outputPath": "C:\\Workspaces\\SessionProject\\Data.RHC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tayfu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4968,8 +4968,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj"
+            "C:\\Workspaces\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj": {
+              "projectPath": "C:\\Workspaces\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj"
             }
           }
         }

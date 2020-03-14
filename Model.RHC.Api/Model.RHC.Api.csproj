@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Ssession.Model.RHC.Infrastructure\Session.Model.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

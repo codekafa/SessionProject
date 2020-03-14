@@ -14,6 +14,8 @@ namespace Data.RHC.Entity
         public string last_name { get; set; }
         public bool is_active { get; set; }
         public bool is_approve { get; set; }
+
+        public int envorirement_type { get; set; }
         public int user_type { get; set; }
         public DateTime  create_date { get; set; }
     }

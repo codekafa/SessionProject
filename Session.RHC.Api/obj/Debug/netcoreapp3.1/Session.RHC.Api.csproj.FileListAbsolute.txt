@@ -135,3 +135,11 @@ C:\Users\tayfu\source\repos\SessionProject\Session.RHC.Api\bin\Debug\netcoreapp3
 C:\Users\tayfu\source\repos\SessionProject\Session.RHC.Api\bin\Debug\netcoreapp3.1\Business.Managers.pdb
 C:\Users\tayfu\source\repos\SessionProject\Session.RHC.Api\bin\Debug\netcoreapp3.1\Core.Data.Manager.Infrastructure.pdb
 C:\Users\tayfu\source\repos\SessionProject\Session.RHC.Api\bin\Debug\netcoreapp3.1\Model.RHC.Api.pdb
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\Session.RHC.Api.csprojAssemblyReference.cache
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\Session.RHC.Api.dll
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\Session.RHC.Api.pdb
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\staticwebassets\Session.RHC.Api.StaticWebAssets.Manifest.cache
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\staticwebassets\Session.RHC.Api.StaticWebAssets.xml
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\Session.RHC.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\Session.RHC.Api.AssemblyInfoInputs.cache
+C:\Workspaces\SessionProject\Session.RHC.Api\obj\Debug\netcoreapp3.1\Session.RHC.Api.AssemblyInfo.cs

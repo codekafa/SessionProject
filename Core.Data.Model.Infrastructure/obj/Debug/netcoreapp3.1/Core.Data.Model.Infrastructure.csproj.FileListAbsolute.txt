@@ -6,3 +6,11 @@ C:\Users\tayfu\source\repos\SessionProject\Core.Data.Model.Infrastructure\obj\De
 C:\Users\tayfu\source\repos\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.AssemblyInfo.cs
 C:\Users\tayfu\source\repos\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.dll
 C:\Users\tayfu\source\repos\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.pdb
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\bin\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.deps.json
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\bin\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.dll
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\bin\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.pdb
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.csprojAssemblyReference.cache
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.AssemblyInfoInputs.cache
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.AssemblyInfo.cs
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.dll
+C:\Workspaces\SessionProject\Core.Data.Model.Infrastructure\obj\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.pdb

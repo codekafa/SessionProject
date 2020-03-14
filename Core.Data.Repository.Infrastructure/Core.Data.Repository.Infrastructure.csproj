@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Core.Data.Model.Infrastructure\Core.Data.Model.Infrastructure.csproj" />
     <ProjectReference Include="..\Data.RHC\Data.RHC.csproj" />
+    <ProjectReference Include="..\Model.RHC.Api\Model.RHC.Api.csproj" />
   </ItemGroup>
 
 </Project>

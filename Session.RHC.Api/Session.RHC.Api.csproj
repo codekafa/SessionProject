@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Business.Managers\Business.Managers.csproj" />
+    <ProjectReference Include="..\Business.Managers\Business.RHC.Managers.csproj" />
     <ProjectReference Include="..\Core.Data.Manager.Infrastructure\Core.Data.Manager.Infrastructure.csproj" />
     <ProjectReference Include="..\Data.RHC.Repository\Data.RHC.Repository.csproj" />
   </ItemGroup>

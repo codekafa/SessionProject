@@ -2,6 +2,7 @@
 using Data.RHC.Repository;
 using Microsoft.AspNetCore.Mvc;
 using Model.RHC.Api.User;
+using Session.Model.Infrastructure;
 using System.Collections.Generic;
 
 namespace Session.RHC.Api.Controllers
@@ -15,7 +16,7 @@ namespace Session.RHC.Api.Controllers
         {
             _userM = userM;
         }
-        public List<UserListModel> GetUsers()
+        public BaseResultModel<List<UserListModel>> GetUsers()
         {
             return _userM.GetUsers();
         }

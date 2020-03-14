@@ -13,25 +13,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session.Model", "Session.Mo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session.UI", "Session.UI", "{A3E75088-A027-409F-858F-7E76800B4625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session.RHC.Api", "Session.RHC.Api\Session.RHC.Api.csproj", "{AAD8353B-3F4B-4CAF-9D03-A8E868B4D946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Session.RHC.Api", "Session.RHC.Api\Session.RHC.Api.csproj", "{AAD8353B-3F4B-4CAF-9D03-A8E868B4D946}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session.RHC.UI", "Session.RHC.UI", "{7AEBC0E8-0140-405B-B27C-84BFAB50B06E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model.RHC.Api", "Model.RHC.Api\Model.RHC.Api.csproj", "{89B195CB-85B3-47A4-8D33-518385A94894}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model.RHC.Api", "Model.RHC.Api\Model.RHC.Api.csproj", "{89B195CB-85B3-47A4-8D33-518385A94894}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.RHC", "Data.RHC\Data.RHC.csproj", "{4F4C6AB2-4C49-493F-A9CB-0352977F9D10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.RHC", "Data.RHC\Data.RHC.csproj", "{4F4C6AB2-4C49-493F-A9CB-0352977F9D10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Managers", "Business.Managers\Business.Managers.csproj", "{33B8262B-DF88-49EC-803F-9787943B750E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.RHC.Managers", "Business.Managers\Business.RHC.Managers.csproj", "{33B8262B-DF88-49EC-803F-9787943B750E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business.Common", "Business.Common\Business.Common.csproj", "{611B75A2-DAAB-448E-93B5-5686219BC747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business.Common", "Business.Common\Business.Common.csproj", "{611B75A2-DAAB-448E-93B5-5686219BC747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.RHC.Repository", "Data.RHC.Repository\Data.RHC.Repository.csproj", "{84CC63C3-6CA5-4053-B6F8-A7F407289042}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.RHC.Repository", "Data.RHC.Repository\Data.RHC.Repository.csproj", "{84CC63C3-6CA5-4053-B6F8-A7F407289042}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Data.Repository.Infrastructure", "Core.Data.Repository.Infrastructure\Core.Data.Repository.Infrastructure.csproj", "{4D94AEB2-FF04-459A-A247-03DFF2D881A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Data.Repository.Infrastructure", "Core.Data.Repository.Infrastructure\Core.Data.Repository.Infrastructure.csproj", "{4D94AEB2-FF04-459A-A247-03DFF2D881A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Data.Manager.Infrastructure", "Core.Data.Manager.Infrastructure\Core.Data.Manager.Infrastructure.csproj", "{1D820CA1-084F-448F-B473-76B140D685EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Data.Manager.Infrastructure", "Core.Data.Manager.Infrastructure\Core.Data.Manager.Infrastructure.csproj", "{1D820CA1-084F-448F-B473-76B140D685EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Data.Model.Infrastructure", "Core.Data.Model.Infrastructure\Core.Data.Model.Infrastructure.csproj", "{F6B20245-8E93-477F-80C5-EA9FB6B50B1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Data.Model.Infrastructure", "Core.Data.Model.Infrastructure\Core.Data.Model.Infrastructure.csproj", "{F6B20245-8E93-477F-80C5-EA9FB6B50B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session.Model.Infrastructure", "Ssession.Model.RHC.Infrastructure\Session.Model.Infrastructure.csproj", "{3DCA078E-7681-4F53-936E-843F3CCE04C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{F6B20245-8E93-477F-80C5-EA9FB6B50B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6B20245-8E93-477F-80C5-EA9FB6B50B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6B20245-8E93-477F-80C5-EA9FB6B50B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCA078E-7681-4F53-936E-843F3CCE04C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCA078E-7681-4F53-936E-843F3CCE04C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCA078E-7681-4F53-936E-843F3CCE04C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCA078E-7681-4F53-936E-843F3CCE04C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{4D94AEB2-FF04-459A-A247-03DFF2D881A7} = {BCF77475-DAFF-44CC-B38D-703638ABDC52}
 		{1D820CA1-084F-448F-B473-76B140D685EE} = {BCF77475-DAFF-44CC-B38D-703638ABDC52}
 		{F6B20245-8E93-477F-80C5-EA9FB6B50B1F} = {BCF77475-DAFF-44CC-B38D-703638ABDC52}
+		{3DCA078E-7681-4F53-936E-843F3CCE04C5} = {042BAD95-D013-4085-889C-8F3A0FE6D92D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7AA0BA85-0E78-4A36-BF83-86FD93DBFDAB}

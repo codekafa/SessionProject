@@ -6,3 +6,14 @@ C:\Users\tayfu\source\repos\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1
 C:\Users\tayfu\source\repos\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.AssemblyInfo.cs
 C:\Users\tayfu\source\repos\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.dll
 C:\Users\tayfu\source\repos\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.pdb
+C:\Workspaces\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.csprojAssemblyReference.cache
+C:\Workspaces\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.AssemblyInfoInputs.cache
+C:\Workspaces\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.AssemblyInfo.cs
+C:\Workspaces\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.dll
+C:\Workspaces\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.pdb
+C:\Workspaces\SessionProject\Model.RHC.Api\bin\Debug\netcoreapp3.1\Model.RHC.Api.deps.json
+C:\Workspaces\SessionProject\Model.RHC.Api\bin\Debug\netcoreapp3.1\Model.RHC.Api.dll
+C:\Workspaces\SessionProject\Model.RHC.Api\bin\Debug\netcoreapp3.1\Model.RHC.Api.pdb
+C:\Workspaces\SessionProject\Model.RHC.Api\bin\Debug\netcoreapp3.1\Session.Model.Infrastructure.dll
+C:\Workspaces\SessionProject\Model.RHC.Api\bin\Debug\netcoreapp3.1\Session.Model.Infrastructure.pdb
+C:\Workspaces\SessionProject\Model.RHC.Api\obj\Debug\netcoreapp3.1\Model.RHC.Api.csproj.CopyComplete

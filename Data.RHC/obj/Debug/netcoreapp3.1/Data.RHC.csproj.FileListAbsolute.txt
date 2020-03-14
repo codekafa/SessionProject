@@ -9,3 +9,14 @@ C:\Users\tayfu\source\repos\SessionProject\Data.RHC\bin\Debug\netcoreapp3.1\Core
 C:\Users\tayfu\source\repos\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.csproj.CopyComplete
 C:\Users\tayfu\source\repos\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.dll
 C:\Users\tayfu\source\repos\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.pdb
+C:\Workspaces\SessionProject\Data.RHC\bin\Debug\netcoreapp3.1\Data.RHC.deps.json
+C:\Workspaces\SessionProject\Data.RHC\bin\Debug\netcoreapp3.1\Data.RHC.dll
+C:\Workspaces\SessionProject\Data.RHC\bin\Debug\netcoreapp3.1\Data.RHC.pdb
+C:\Workspaces\SessionProject\Data.RHC\bin\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.dll
+C:\Workspaces\SessionProject\Data.RHC\bin\Debug\netcoreapp3.1\Core.Data.Model.Infrastructure.pdb
+C:\Workspaces\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.csprojAssemblyReference.cache
+C:\Workspaces\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.AssemblyInfoInputs.cache
+C:\Workspaces\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.AssemblyInfo.cs
+C:\Workspaces\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.csproj.CopyComplete
+C:\Workspaces\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.dll
+C:\Workspaces\SessionProject\Data.RHC\obj\Debug\netcoreapp3.1\Data.RHC.pdb

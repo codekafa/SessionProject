@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Workspaces\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj",
       "projectName": "Core.Data.Model.Infrastructure",
-      "projectPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj",
+      "projectPath": "C:\\Workspaces\\SessionProject\\Core.Data.Model.Infrastructure\\Core.Data.Model.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\tayfu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Core.Data.Model.Infrastructure\\obj\\",
+      "outputPath": "C:\\Workspaces\\SessionProject\\Core.Data.Model.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tayfu\\AppData\\Roaming\\NuGet\\NuGet.Config",

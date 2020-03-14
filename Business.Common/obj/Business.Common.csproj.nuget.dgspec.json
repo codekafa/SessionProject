@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Business.Common\\Business.Common.csproj": {}
+    "C:\\Workspaces\\SessionProject\\Business.Common\\Business.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Business.Common\\Business.Common.csproj": {
+    "C:\\Workspaces\\SessionProject\\Business.Common\\Business.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Business.Common\\Business.Common.csproj",
+        "projectUniqueName": "C:\\Workspaces\\SessionProject\\Business.Common\\Business.Common.csproj",
         "projectName": "Business.Common",
-        "projectPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Business.Common\\Business.Common.csproj",
+        "projectPath": "C:\\Workspaces\\SessionProject\\Business.Common\\Business.Common.csproj",
         "packagesPath": "C:\\Users\\tayfu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tayfu\\source\\repos\\SessionProject\\Business.Common\\obj\\",
+        "outputPath": "C:\\Workspaces\\SessionProject\\Business.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tayfu\\AppData\\Roaming\\NuGet\\NuGet.Config",
